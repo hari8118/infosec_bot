@@ -47,12 +47,12 @@ def error(update, context):
 
 def about(update, context):
     update.message.reply_text("""
-            Infosec is not just a chatbot. Its the future which going to tame you or tamed by you. It's an AI-enabled customer service solution that answers your questions, responds to your tweets, and helps you find the products you're looking for. Infosec has the power to save you time, increase your sales, and make your customer service operation more efficient. Now choice is Your CONSTRUCT OT DESTRUCT .
+            Infosec is not just a chatbot. Its the future which going to tame you or tamed by you. It's an AI-enabled customer service solution that answers your questions, responds to your tweets, and helps you find the products you're looking for. Infosec has the power to save you time, increase your sales, and make your customer service operation more efficient. Now choice is Your CONSTRUCT OR DESTRUCT .
         """)
 
 
 def contact(update, context):
-    update.message.reply_text("Developer: 🔴HARSHIT🔴 \n CONTACT US @mscis_ignou \n")
+    update.message.reply_text("Developer: 🔴HARSHIT & ANANYA🔴 \n CONTACT US @mscis_ignou \n")
 
 
 def handle_message(update, context):
