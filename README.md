@@ -52,7 +52,7 @@ def about(update, context):
 
 
 def contact(update, context):
-    update.message.reply_text("Developer: 🔴HARSHIT🔴  🔴ANANYA🔴  \n CONTACT US @mscis_ignou \n")
+    update.message.reply_text("Developer: 🔴HARSHIT🔴 \n CONTACT US @mscis_ignou \n")
 
 
 def handle_message(update, context):
